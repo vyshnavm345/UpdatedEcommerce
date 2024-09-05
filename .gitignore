@@ -1,0 +1,10 @@
+# Virtual environment
+myenv/
+
+# Environment variables
+.env
+
+# Other common files you may want to ignore
+__pycache__/
+*.py[cod]
+*.sqlite3
